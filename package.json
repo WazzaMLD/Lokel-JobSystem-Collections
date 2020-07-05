@@ -8,7 +8,7 @@
 		"url": "https://github.com/WazzaMLD/Lokel-JobSystem-Collections.git",
 		"revision": ""
 	},
-  	"description": "Collections to help with Unity's C# Job System",
+  "description": "Collections to help with Unity's C# Job System",
 	"keywords": [
 		"job",
 		"collections"
