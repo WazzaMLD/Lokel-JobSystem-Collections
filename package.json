@@ -1,0 +1,16 @@
+{
+	"name": "com.lokeldigital.lokel.collections",
+	"displayName": "Lokel JobSystem Collections",
+	"version": "1.0.0",
+	"unity": "2019.4",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/WazzaMLD/Lokel-JobSystem-Collections.git",
+		"revision": ""
+	},
+  	"description": "Collections to help with Unity's C# Job System",
+	"keywords": [
+		"job",
+		"collections"
+	]
+}
