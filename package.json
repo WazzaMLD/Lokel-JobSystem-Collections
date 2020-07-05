@@ -6,13 +6,14 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/WazzaMLD/Lokel-JobSystem-Collections.git",
-		"revision": ""
+		"revision": "efe0a284a2513082eff1bdbfab3d3981b61a29c7"
 	},
   "description": "Collections to help with Unity's C# Job System",
 	"keywords": [
 		"job",
 		"collections"
 	],
+  "dependencies": {},
   "author": {
     "name": "Warwick Molloy",
     "email": "wazzam@lokeldigital.com",
