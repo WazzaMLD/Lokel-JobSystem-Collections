@@ -12,5 +12,10 @@
 	"keywords": [
 		"job",
 		"collections"
-	]
+	],
+  "author": {
+    "name": "Warwick Molloy",
+    "email": "wazzam@lokeldigital.com",
+    "url": "https://www.lokeldigital.com"
+  } 
 }
