@@ -1,2 +1,3 @@
 
-**/*.meta
+# Turns out meta files are needed
+# **/*.meta
